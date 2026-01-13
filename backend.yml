@@ -8,7 +8,7 @@ Parameters:
     Description: Enter a name for the Hotel. Default is AWS Hotel.
   Environment:
     Type: String
-    Default: dev
+    Default: stage
     Description: Enter a name for the Environment. Default is dev, this is used later in the workshop to tag the environments
 
 
